@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+captures/
+backups/
+private/
+.env
+.env.*
+*.key
+*.pem
+*.img
+*.bin
+*.log
+*.nmconnection
